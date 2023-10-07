@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>🇺🇿Denoland Uzbekistan.</title>
+        <title>Denoland Uzbekistan.</title>
       </Head>
       <div className="bgblack">
         <h1 className="text-center text-2xl mt-5">
